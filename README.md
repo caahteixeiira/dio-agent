@@ -74,24 +74,27 @@ Objetivo: [tirar uma ideia do papel].
 
 ## Minha entrega
 
-Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada passo, sem dados pessoais.
 
 ### Configure
 
-_Cole o print do DIO Agent se apresentando._
+<img width="771" height="803" alt="Captura de tela 2026-11-10 143955" src="https://github.com/user-attachments/assets/5b43d382-9219-4503-be77-c7d3ee838451" />
+
 
 ### Estudar
 
-_Cole o print da explicação._
+<img width="847" height="372" alt="image" src="https://github.com/user-attachments/assets/e603bf4f-0995-4448-9bae-0517e6787055" />
+
 
 ### Praticar
 
-_Cole o print da dica que destravou você._
+<img width="848" height="822" alt="image" src="https://github.com/user-attachments/assets/1ac37c32-5347-47a7-8d6f-08edc60761bd" />
+
 
 ### Planejar
 
-_Cole o print do seu plano de estudos._
+<img width="811" height="586" alt="image" src="https://github.com/user-attachments/assets/86684efa-1b02-41e0-bfcf-c4bd66b091af" />
+
 
 ### Como foi para você
 
-_Conte em poucas linhas como foi usar o DIO Agent pela primeira vez._
+Foi como um professor presente, que te orienta e pronto para sanar sua dúvidas
